@@ -5,3 +5,7 @@ git add file
 git config --global user.name "xxx"
 git status
 git commit -m "'
+git log
+git reflog
+git reset --hard head^1
+cat readme.txt
