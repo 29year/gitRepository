@@ -9,3 +9,4 @@ git log
 git reflog
 git reset --hard head^1
 cat readme.txt
+git diff head -- xxx
