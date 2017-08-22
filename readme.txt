@@ -10,3 +10,5 @@ git reflog
 git reset --hard head^1
 cat readme.txt
 git diff head -- xxx
+git checkout -- xxx
+git reset head xxx
