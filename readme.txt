@@ -12,3 +12,6 @@ cat readme.txt
 git diff head -- xxx
 git checkout -- xxx
 git reset head xxx
+git clone git@github.com:xxx/xxx.git
+git push origin master
+ssh-keygen -t rsa -C "email" 生成新的key
